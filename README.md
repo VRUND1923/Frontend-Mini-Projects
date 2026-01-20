@@ -1,17 +1,30 @@
 # Frontend Mini Projects
 
-This repository contains a collection of small frontend projects built for practice and learning purposes.
+This repository serves as an index of small frontend practice projects built using HTML, CSS, and JavaScript.
 
-The goal of these projects is to strengthen core frontend fundamentals such as JavaScript logic, DOM manipulation, event handling, and basic UI interactions.
+Each project is maintained as a separate repository to keep the code clean, modular, and easy to explore.
 
 ---
 
-## 📌 Projects Included
-- Calculator
-- Tic Tac Toe
-- Rock Paper Scissors
-- Quiz App
-- Survey Form
+## 📌 Projects
+
+- **Calculator App**  
+  https://github.com/VRUND1923/calculator-app
+
+- **Tic Tac Toe Game**  
+  https://github.com/VRUND1923/tic-tac-toe-game
+
+- **Rock Paper Scissors Game**  
+  https://github.com/VRUND1923/rock-paper-scissors-game
+
+- **Quiz Application**  
+  https://github.com/VRUND1923/quiz-app-js
+
+- **Survey Form**  
+  https://github.com/VRUND1923/survey-form-app
+
+- **To-Do List Application**  
+  https://github.com/VRUND1923/todo-list-app
 
 ---
 
@@ -23,4 +36,4 @@ The goal of these projects is to strengthen core frontend fundamentals such as J
 ---
 
 ## 🎯 Purpose
-These projects were created as part of my frontend learning journey and helped build a strong foundation for larger, real-world applications.
+These projects were built for learning and practice to strengthen frontend fundamentals such as DOM manipulation, event handling, and UI logic.
